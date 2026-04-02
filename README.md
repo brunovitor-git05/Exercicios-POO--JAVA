@@ -1,2 +1,2 @@
-# Exerc-cios-POO--JAVA
+# Exercicios-POO--JAVA
 Exercícios referentes ao Trabalho individual de POO.
